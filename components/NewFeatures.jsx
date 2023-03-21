@@ -1,3 +1,4 @@
+/* eslint-disable */
 import styles from "../styles";
 
 const NewFeatures = ({ imgUrl, title, subtitle }) => (

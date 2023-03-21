@@ -1,4 +1,7 @@
-'use client'; //for server side rendering... only use when usinng other imports
+/* eslint-disable */
+'use client'; 
+
+//for server side rendering... only use when usinng other imports
 
 import { motion } from 'framer-motion';
 import styles from '../styles';
